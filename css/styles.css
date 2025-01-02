@@ -1,50 +1,35 @@
-.dark-background{
-  background-color: black;
-  background-size: cover;
-  height: 110vh;
-  
-}
-.bulbimageon {
-  height: 40vh;
-  
-}
-.catimageon{
-  
-  width: 400px;
-  
-}
-.card1 {
-  background-color:#7b8794;
-  
-  width: 294px;
-  height: 139px;
-  border-radius: 12px;
-  padding-left: 16px;
-  padding-right: 16px;
-  padding-top: 32px;
-  padding-bottom: 32px;
-  margin: 16px;
- 
-}
-.switchoff{
-  color: #ffffff;
-  background-color: #e12d39;
-  font-family: "Roboto";
-  font-size: 24px;
-  font-weight: bold;
-  width: 99px;
-  height: 44px;
-  border-radius: 8px;
-}
-.switchon{
-  color: #ffffff;
-  background-color: #cbd2d9;
-  font-family: "Roboto";
-  font-size: 24px;
-  font-weight: bold;
-  width: 99px;
-  height: 44px;
-  border-radius: 8px;
-  margin-left: 16px;
-}
 
+.bg-container {
+    background-color: #1f2933;
+    height: 100vh;
+}
+.head{
+    color: yellow;
+    font-weight: 600;
+}
+.para{
+    color: white;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 65px;
+}
+.bg-person-card{
+   background-color: #323f4b;
+   padding: 10px;
+   width: 400px;
+    
+    
+}
+.card-description{
+  color: #9aa5b1;
+  font-size: 20px;
+}
+.card-name{
+  color: white;
+  font-size: 30px;
+}
+.person-image{
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
